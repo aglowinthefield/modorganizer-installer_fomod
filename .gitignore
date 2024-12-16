@@ -3,3 +3,5 @@ edit
 /msbuild.log
 /*std*.log
 /*build
+.vs
+out

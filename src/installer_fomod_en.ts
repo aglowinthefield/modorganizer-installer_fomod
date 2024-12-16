@@ -241,7 +241,8 @@
     <name>InstallerFomod</name>
     <message>
         <location filename="installerfomod.cpp" line="38"/>
-        <source>Installer for xml based fomod archives.</source>
+        <source>Installer for xml based fomod archives. With aglowinthefield&apos;s addons.</source>
+        <oldsource>Installer for xml based fomod archives.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

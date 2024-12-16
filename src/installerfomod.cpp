@@ -25,17 +25,17 @@ bool InstallerFomod::init(IOrganizer* moInfo)
 
 QString InstallerFomod::name() const
 {
-  return "Fomod Installer";
+  return "FOMOD Installer Plus";
 }
 
 QString InstallerFomod::author() const
 {
-  return "Tannin & thosrtanner";
+  return "Tannin & thosrtanner + aglowinthefield";
 }
 
 QString InstallerFomod::description() const
 {
-  return tr("Installer for xml based fomod archives.");
+  return tr("Installer for xml based fomod archives. With aglowinthefield's addons.");
 }
 
 VersionInfo InstallerFomod::version() const
